@@ -1,3 +1,7 @@
+# MPO and Version tags:
+Please add these to the top of your mod description for best visibility. We all know the majority don't read the descriptions ;)
+
+
 # community
 Things for community use
 
