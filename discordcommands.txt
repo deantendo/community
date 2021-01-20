@@ -19,7 +19,7 @@ This shows info on how to clear the cache
 >rp
 This posts a link to the Refined Power discord
 
->mp
+>multiplayer
 This posts multiplayer info
 
 >docs
