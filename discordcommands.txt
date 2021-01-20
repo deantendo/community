@@ -1,0 +1,38 @@
+Command to post this list: >commandlist
+
+
+>engine
+This is to let people know about the engine upgrade and that mods don't work on EXP right now
+
+>install
+This shows an image to help people install SMM and bypass windows warnings
+
+>smmhelp
+This shows an image explaining the functions of SMM
+
+>creative
+This links to a discord post listing mods for a creative mode
+
+>cache
+This shows info on how to clear the cache
+
+>rp
+This posts a link to the Refined Power discord
+
+>mp
+This posts multiplayer info
+
+>docs
+This links to the docs for aspiring modders
+
+>tweakit
+This posts a link to the TweakIt discord
+
+>sod
+This posts a link to the Satisfactory Official Discord
+
+>moar
+This explains common crashes with Moar Factory
+
+>malware
+This posts info replying to people asking why they get a malware or virus warning when trying to install SMM
