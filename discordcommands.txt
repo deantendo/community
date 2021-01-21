@@ -36,3 +36,6 @@ This explains common crashes with Moar Factory
 
 >malware
 This posts info replying to people asking why they get a malware or virus warning when trying to install SMM
+
+>modlist_nocheat
+links to SMR guides, list of mods
