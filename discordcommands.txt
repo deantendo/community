@@ -11,7 +11,7 @@ This shows an image to help people install SMM and bypass windows warnings
 This shows an image explaining the functions of SMM
 
 >creative
-This links to a discord post listing mods for a creative mode
+This links modlist of creative mode mods
 
 >cache
 This shows info on how to clear the cache
@@ -39,3 +39,6 @@ This posts info replying to people asking why they get a malware or virus warnin
 
 >modlist_nocheat
 links to SMR guides, list of mods
+
+>modlist_moremachines
+Links to SMR guide mod list
