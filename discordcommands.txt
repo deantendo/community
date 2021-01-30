@@ -42,3 +42,6 @@ links to SMR guides, list of mods
 
 >modlist_moremachines
 Links to SMR guide mod list
+
+>mm
+Links to MoreMilestones help discord
