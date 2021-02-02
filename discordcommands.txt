@@ -1,5 +1,7 @@
 Command to post this list: >commandlist
 
+>welcome
+Links to a ficsit.app guide to orient new folks
 
 >engine
 This is to let people know about the engine upgrade and that mods don't work on EXP right now
