@@ -53,3 +53,6 @@ Posts a bot response for common linux issues with smm
 
 >fin
 Posts an invite to the Ficsit Networks Discord
+
+>map
+Posts a link to the Satisfactory Calculator
