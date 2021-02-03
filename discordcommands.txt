@@ -50,3 +50,6 @@ Links to MoreMilestones help discord
 
 >linux
 Posts a bot response for common linux issues with smm
+
+>fin
+Posts an invite to the Ficsit Networks Discord
