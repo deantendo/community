@@ -62,3 +62,6 @@ Posts text instructing users to ask about base-game things or mp reqs/LFG on off
 
 >playvanilla
 Posts info about playing without mods for new players.
+
+>modularbuild
+Shows some info about modular build
