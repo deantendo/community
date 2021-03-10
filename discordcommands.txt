@@ -65,3 +65,6 @@ Posts info about playing without mods for new players.
 
 >modularbuild
 Shows some info about modular build
+
+>mwave
+shows an image for Microwave power mod
