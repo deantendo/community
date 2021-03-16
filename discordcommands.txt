@@ -68,3 +68,6 @@ Shows some info about modular build
 
 >mwave
 shows an image for Microwave power mod
+
+>ui-time
+summons @deantendo#4265
