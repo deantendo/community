@@ -71,3 +71,6 @@ shows an image for Microwave power mod
 
 >ui-time
 summons @deantendo#4265
+
+>pins
+message asking users to read the pinned messages
