@@ -74,3 +74,6 @@ summons @deantendo#4265
 
 >pins
 message asking users to read the pinned messages
+
+>calc
+posts a link to https://satisfactory-calculator.com/
