@@ -3,7 +3,7 @@ Command to post this list: >commandlist
 >welcome
 Links to a ficsit.app guide to orient new folks
 
->engine
+>engine / >update4
 This is to let people know about the engine upgrade and that mods don't work on EXP right now
 
 >install
@@ -65,3 +65,15 @@ Posts info about playing without mods for new players.
 
 >modularbuild
 Shows some info about modular build
+
+>mwave
+shows an image for Microwave power mod
+
+>ui-time
+summons @deantendo#4265
+
+>pins
+message asking users to read the pinned messages
+
+>calc
+posts a link to https://satisfactory-calculator.com/
